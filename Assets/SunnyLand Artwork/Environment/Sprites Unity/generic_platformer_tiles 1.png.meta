@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 78c729dcd3c3462418094e687c519d11
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_0
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 481
+        width: 200
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad133f89c906af4a8d8821b294b2ab7
+      internalID: 1089910682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 608
+        width: 216
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc1776b1331334192d03b3e530fe18
+      internalID: 2065036985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432ca9128f76254d87bf3b6f7d3a406
+      internalID: -1401695401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 165
+        width: 104
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af69a232ebfdb459c93beceaae3a19
+      internalID: 1860571433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 386
+        width: 259
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109, y: -46.5}
+        - {x: -109, y: -47.5}
+        - {x: -101, y: -47.5}
+        - {x: -101, y: -46.5}
+        - {x: -73.588196, y: -23.225433}
+        - {x: -106, y: -43.5}
+      - - {x: -127, y: 47.5}
+        - {x: -132, y: 44.5}
+        - {x: -132, y: 6.5}
+        - {x: -99, y: -47.5}
+        - {x: 40, y: -47.5}
+        - {x: 118, y: 8.5}
+        - {x: 118, y: 37.5}
+        - {x: 112, y: 47.5}
+      - - {x: -50, y: -21.5}
+        - {x: -50, y: -11.5}
+        - {x: -42, y: -16.5}
+        - {x: -32, y: -16.5}
+        - {x: -32, y: -26.5}
+      - - {x: -18, y: -16.5}
+        - {x: 0, y: -16.5}
+        - {x: 0, y: -26.5}
+        - {x: -18, y: -26.5}
+      - - {x: 14, y: -16.5}
+        - {x: 24, y: -16.5}
+        - {x: 32, y: -11.5}
+        - {x: 32, y: -21.5}
+        - {x: 23, y: -26.5}
+        - {x: 14, y: -26.5}
+      - - {x: -70, y: -11.5}
+        - {x: -74, y: -8.5}
+        - {x: -74, y: -7.5}
+        - {x: -80, y: -1.5}
+        - {x: -81, y: -1.5}
+        - {x: -82, y: -0.5}
+        - {x: -83, y: 8.5}
+        - {x: -75, y: -0.5}
+        - {x: -64, y: -5.5}
+        - {x: -63, y: -15.5}
+        - {x: -63, y: -14.5}
+      - - {x: 46, y: -5.5}
+        - {x: 57, y: -0.5}
+        - {x: 65, y: 8.5}
+        - {x: 52, y: -11.5}
+        - {x: 46, y: -15.5}
+      - - {x: -95, y: 15.5}
+        - {x: -100, y: 20.5}
+        - {x: -103, y: 28.5}
+        - {x: -96, y: 20.5}
+        - {x: -95, y: 11.5}
+        - {x: -94, y: 12.5}
+      - - {x: 78, y: 20.5}
+        - {x: 85, y: 28.5}
+        - {x: 83, y: 20.5}
+        - {x: 77, y: 15.5}
+        - {x: 77, y: 12.5}
+        - {x: 78, y: 12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1d04991decb943a5f30bce2b9fee5
+      internalID: 748070964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_5
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 221
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aca045bbf741649ad4bd8492357421
+      internalID: 1219541544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_6
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 225
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f5d1929aca4b49a408646e7b61df8
+      internalID: -1056321004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3116ba912e9fc4da9dc8fcc7555f13
+      internalID: -1400287279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 225
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5bd36b7d9e7a4a877d4b0ba2c4350
+      internalID: 1680243460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 194
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404fcfc49d3b5544bd5be8c4c1b855a
+      internalID: 1702854401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 195
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95fe0f77b761c340907ff3165f7bb89
+      internalID: 1064631800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 196
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62795dd0a46abe042a89d99950866dfd
+      internalID: 1133887099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 257
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73539afc98832a49bea675c5d6114bf
+      internalID: -855105034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_13
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 705
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73dbbd43663c8b46ac84b8791dad73f
+      internalID: 1892216738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 706
+        width: 142
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 53, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd601ea766bb9ec41ab44f9b46c13a4b
+      internalID: 1367816110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_15
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 649
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b244d5900fe547894cc19235ffe8d
+      internalID: -1092271960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_16
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 704
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0552ef5c158a08469325786e76ff48b
+      internalID: 809079551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_17
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 640
+        width: 16
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdd46d5a78db748889a22962072fe6
+      internalID: 383710029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 321
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e017f64a0e81343b06328c39df271c
+      internalID: 932933103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 347
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a844e240f3c9fd44a8789d0f58ae99f
+      internalID: -1732478479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_platformer_tiles 1_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 186
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802cc1737ef6654fb75d6d3e246ea48
+      internalID: 1146958984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      generic_platformer_tiles 1_0: 1089910682
+      generic_platformer_tiles 1_1: 2065036985
+      generic_platformer_tiles 1_10: 1064631800
+      generic_platformer_tiles 1_11: 1133887099
+      generic_platformer_tiles 1_12: -855105034
+      generic_platformer_tiles 1_13: 1892216738
+      generic_platformer_tiles 1_14: 1367816110
+      generic_platformer_tiles 1_15: -1092271960
+      generic_platformer_tiles 1_16: 809079551
+      generic_platformer_tiles 1_17: 383710029
+      generic_platformer_tiles 1_18: 932933103
+      generic_platformer_tiles 1_19: -1732478479
+      generic_platformer_tiles 1_2: -1401695401
+      generic_platformer_tiles 1_20: 1146958984
+      generic_platformer_tiles 1_3: 1860571433
+      generic_platformer_tiles 1_4: 748070964
+      generic_platformer_tiles 1_5: 1219541544
+      generic_platformer_tiles 1_6: -1056321004
+      generic_platformer_tiles 1_7: -1400287279
+      generic_platformer_tiles 1_8: 1680243460
+      generic_platformer_tiles 1_9: 1702854401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
